@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: raftriani/api-python:${GITHUB_SHA::6}
+          tags: raftriani/api-python:${{ github.sha }}
