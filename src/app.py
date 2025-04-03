@@ -10,7 +10,7 @@ def detais():
     return jsonify({
         'time': datetime.datetime.now().strftime("%I:%M:%S:%p on %B %d, %Y"),
         'hostname': socket.gethostname(),
-        'message': 'You are doing great, human! =1'
+        'message': 'You are doing great, human! =2'
     })
 
 @app.route('/api/v1/healthz')
