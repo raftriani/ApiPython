@@ -1,8 +1,8 @@
 replicaCount: 1
 image:
-  repository: raftriani/api-python  
+  repository: raftriani/api-python
   pullPolicy: IfNotPresent
-  tag: v3
+  tag: '176200'
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
