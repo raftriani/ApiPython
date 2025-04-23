@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: raftriani/ApiPython
     backstage.io/techdocs-ref: dir:.
-  spec:
-    type: service
-    owner: raftriani
-    lifecycle: experimental
+spec:
+  type: service
+  owner: raftriani
+  lifecycle: experimental
