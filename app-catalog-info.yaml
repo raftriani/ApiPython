@@ -6,14 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: raftriani/ApiPython
     backstage.io/techdocs-ref: dir:.
-  tags:
-    - python
-  links:
-    - url: https://github.com/raftriani/ApiPython
-      title: Api Python
-      icon: dashboard
-      type: admin-dashboard
-   spec:
+  spec:
     type: service
     owner: raftriani
     lifecycle: experimental
