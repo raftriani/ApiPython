@@ -3,10 +3,7 @@ site_description: 'Main documentation for Python App'
 repo_url: https://github.com/raftriani/ApiPython
 
 plugins:
-  - mkdocs_monorepo_plugin:
-      edit_uri:
-        url: 'https://github.com/raftriani/ApiPython/edit/main/docs/'
+  - techdocs-core
 
 nav:
-  - Overview:
-      - Getting started: 'index.md'
+  - Home: index.md
