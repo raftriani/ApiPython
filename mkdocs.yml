@@ -5,9 +5,8 @@ repo_url: https://github.com/raftriani/ApiPython
 
 plugins:
   - techdocs-core
-  - monorepo
 
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
 nav:
   - Overview:
-      - Getting started: 'docs/index.md'
+      - Getting started: 'index.md'
