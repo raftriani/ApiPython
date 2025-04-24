@@ -5,6 +5,7 @@ edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
+  - monorepo
 
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
 nav:
